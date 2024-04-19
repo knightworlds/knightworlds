@@ -2,4 +2,4 @@
 
 #### Thank you for considering my profile, and I am looking forward to the opportunity to contribute to pioneering projects in the crypto/NFT/GameFi space.
 
-#### Interesting ??? [Projects](https://github.com/stable0man/interesting)
+#### Interesting??? [Projects](https://github.com/stable0man/interesting)
