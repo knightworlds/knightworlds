@@ -49,7 +49,7 @@
 use anchor_lang::prelude::*;
 use anchor_spl::token::{self, Mint, Token, TokenAccount, Transfer};
 
-declare_id!("YourProgramIdHere1234567890");
+declare_id!("program id");
 
 #[program]
 pub mod staking {
