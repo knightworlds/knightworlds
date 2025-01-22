@@ -8,7 +8,7 @@
 ### 📞 Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ:
 
 <p> 
-    <a href="https://t.me/knightworlds127" target="_blank"><img alt="Telegram"
+    <a href="https://t.me/cashblaze127" target="_blank"><img alt="Telegram"
         src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
