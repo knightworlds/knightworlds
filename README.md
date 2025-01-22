@@ -5,6 +5,12 @@
 - ✍ I'm `Solana blockchain developer`. I've developed various tools and `Smart Contracts` to optimize `Trading` strategies, deploy `Tokens`, and manage `Liquidity`.
 - 🌱 Built `Rune launchpad`, `Rune Recursive`, `Multi SigWallet`, `Ordinal Marketplace`, `Ordinal Raffle`, `BRC20 Marketplace`, `BTC Defi`, Several `Significant` Projects based on Bitcoin network and `NFT`, `Defi` projects on `EVM` & `Solana Network`
 
+### 📞 Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ:
+
+<p> 
+    <a href="https://t.me/knightworlds127" target="_blank"><img alt="Telegram"
+        src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</p>
 
 ## 🚀 **Recent Projects**
 
@@ -180,11 +186,4 @@ impl<'info> ClaimRewards<'info> {
 
 ```
 
-
-### 📞 Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ:
-
-<p> 
-    <a href="https://t.me/knightworlds127" target="_blank"><img alt="Telegram"
-        src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-</p>
 
