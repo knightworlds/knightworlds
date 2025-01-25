@@ -2,6 +2,7 @@
 
 - ✍ I'm `Solana blockchain developer`. I've developed various tools and `Smart Contracts` to optimize `Trading` strategies, deploy `Tokens`, and manage `Liquidity`.
 - 🌱 Built `Rune launchpad`, `Rune Recursive`, `Multi SigWallet`, `Ordinal Marketplace`, `Ordinal Raffle`, `BRC20 Marketplace`, `BTC Defi`, Several `Significant` Projects based on Bitcoin network and `NFT`, `Defi` projects on `EVM` & `Solana Network`
+- 🔥 I have much experience in `Python, AI`. I've developed various tools and `AI Projects`.
 
 ### 📞 Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ:
 <p> 
